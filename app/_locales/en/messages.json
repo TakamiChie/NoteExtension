@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "NoteExtension",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "note_ex",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "We add various functions starting with character count to note.mu.",
+    "description": "The description of the application"
+  }
+}
